@@ -29,19 +29,6 @@ top: -30px;
 left: 40px;
 }
 
-h2{
-    font-family:'Rubik';
-    color: #352C84;
-    font-size: 50px;
-    position: relative;
-}
-
-footer{
-    left: 831px;
-    top: -660px;
-    position: relative;
-}
-
 a {
   color: #ffffff;
   text-decoration: none;
