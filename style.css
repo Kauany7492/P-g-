@@ -14,7 +14,7 @@ background-color: #FBF4E8 ;
 .Logo-Cedus{
     left: 831px;
     top: -660px;
-    position: relative;
+    position: fixed;
 }
 
 h1{
