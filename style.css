@@ -11,6 +11,39 @@ background-color: #FBF4E8 ;
 
 }
 
+.Logo-Cedus{
+    left: 831px;
+    top: -660px;
+    position: relative;
+}
+
+h1{
+    color: #5C1362;
+    font-size: 80px;
+    font-family: 'Rubik';
+}
+
+p{
+    color: #352C84;
+    font-size: 30px;
+    font-family: 'Red Hat Display';
+}
+
+h2{
+    color: #352c84;
+    font-size: 50px;
+    font-family: 'Rubik';
+}
+
+h3{
+    color: #352c84;
+    font-family: 'Red Hat Display';
+}
+
+.noticia-teste .noticia-teste1{
+    display: flex;
+}
+
 a {
   color: #ffffff;
   text-decoration: none;
