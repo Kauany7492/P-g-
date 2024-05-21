@@ -11,12 +11,12 @@ background-color: #FBF4E8 ;
 
 }
 
-footer img{
-    width: 186px;
-    height: 129px;
-    left: 831px;
-    top: -660px;
-    position: fixed;
+.noticia-teste, .noticia-teste1{
+    display: flex;
+}
+
+.noticica{
+    display: block;
 }
 
 h1{
@@ -39,11 +39,8 @@ h2{
 
 h3{
     color: #352c84;
+    font-size: 40px;
     font-family: 'Red Hat Display';
-}
-
-.noticia-teste, .noticia-teste1{
-    display: flex;
 }
 
 a {
