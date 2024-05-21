@@ -11,24 +11,6 @@ background-color: #FBF4E8 ;
 
 }
 
-h1{
-font-family: 'Rubik';
-color: #5C1362;
-font-size: 80px;
-position: relative;
-top: 50px;
-margin: 150px;
-}
-
-p{
-font-family: 'Red Hat Display';
-font-size: 30px;
-color: #352C84;
-position:relative; 
-top: -30px;
-left: 40px;
-}
-
 a {
   color: #ffffff;
   text-decoration: none;
@@ -166,3 +148,4 @@ main {
   .nav-home
   {width: 0vw;}
 }
+
