@@ -25,8 +25,18 @@ body{
     margin-right: 15px;
 }
 
-div p{
-    justify-content: center;
+refe-img{
+    margin-left: 50vw;
+}
+
+refe-img1{
+    margin-right: 50vw;
+}
+
+.noticica1{
+    display: block;
+    margin-right: 5px;
+    margin-left: 5px;
 }
 
 .noticica{
