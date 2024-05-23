@@ -21,7 +21,7 @@ body{
 
 .Imagem{
     margin-left: 15px;
-    justify-items: center;
+    align-items: center;
 }
 
 div p{
