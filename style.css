@@ -16,16 +16,27 @@ body{
 
 .noticia-teste, .noticia-teste1{
     display: flex;
+    gap: 15px;
+}
+
+.Imagem{
+    margin-left: 15px;
+}
+
+div p{
+    text-aling: center;
 }
 
 .noticica{
     display: block;
+    margin-right: 5px;    
 }
 
 h1{
     color: #5C1362;
     font-size: 80px;
     font-family: 'Rubik';
+    margin-left: 15px;
 }
 
 p{
