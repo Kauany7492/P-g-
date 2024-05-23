@@ -21,11 +21,11 @@ body{
 
 .Imagem{
     margin-left: 15px;
-    align-items: center;
+    justify-content: center;
 }
 
 div p{
-    text-aling: center;
+    justify-content: center;
 }
 
 .noticica{
