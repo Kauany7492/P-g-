@@ -22,6 +22,7 @@ body{
 .Imagem{
     margin-left: 15px;
     justify-content: center;
+    margin-right: 15px;
 }
 
 div p{
@@ -30,7 +31,8 @@ div p{
 
 .noticica{
     display: block;
-    margin-right: 5px;    
+    margin-right: 5px;
+    margin-left: 5px;
 }
 
 h1{
