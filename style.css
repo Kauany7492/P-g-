@@ -9,6 +9,59 @@
   padding: 0;
 }
 
+form{
+    position: relative
+}
+
+form input[type=text] {
+    font-size: 18px;
+    width: 250px;
+    padding: 8px 0;
+    border: none;
+    border-radius: 25px 0 0 25px;
+    transition: 0.3s all ease-in-out;
+}
+
+form.active input[type=text] {
+    width: 250px;
+    padding: 8px 20px
+}
+
+form button[type=button] {
+    position: absolute;
+    width: 50px;
+    heeight: 50px;
+    right: 0;
+    top: 50%;
+    transform: translate(50%, -50%);
+    border: none;
+    border-raius: 100%;
+    backgroud-color: #F8F0FF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+form button[type=button] img {
+    width: 30px;
+    height: 30px;
+    transition: 0.3s all ease;
+}
+
+form.active button[type=button] img.search,
+form button[type=button] img.close{
+    width: 0;
+    height: 0;
+    opacity: 0;
+}
+
+form.active button[type=button] img.close {
+    width: 25px;
+    height: 25px;
+    opacity: 1;
+}
+
 footer{
     display: flex;
     justify-content: end;
