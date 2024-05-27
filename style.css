@@ -25,12 +25,8 @@ body{
     margin-right: 15px;
 }
 
-refe-img{
-    margin-left: 50vw;
-}
-
-refe-img1{
-    margin-right: 50vw;
+header{
+    position: fixed;
 }
 
 .noticica1{
