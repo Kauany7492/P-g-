@@ -9,9 +9,12 @@
   padding: 0;
 }
 
+footer{
+    display: flex;
+}
+
 .logo{
-    width: 20px;
-    height: 10px;
+    width: 100px;
 }
 
 body{
@@ -93,10 +96,6 @@ nav {
   background: #ffffff;
   height: 8vh;
 background-color: #FBF4E8 ;
-}
-
-main {
-  height: 92vh;
 }
 
 .nav-list {
