@@ -7,42 +7,109 @@
 * {
   margin: 0;
   padding: 0;
+}
 
+.menu-2{
+    display: flex;
+    gap: 150px;
+}
+
+.procurar{
+    width: 700px;
+    height: 50px;
+    padding-left: 5px;
+    border: none;
+    border-radius: 25px 0 0 25px;
+    background-color: #CAC0B5;
+    background-opacity: 50%;
+    color: #2A516E;
+    margin-right: 50px;
+    margin-top: 60px;
+}
+
+.circulo-pesquisa{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    right: 10px;
+    top: 55px;
+    border: none;
+    border-radius: 100%;
+    background-color: #352C84;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.lupa{
+    width: 30px;
+    height: 30px;
+}
+
+footer{
+    display: flex;
+    justify-content: end;
+}
+
+.logo{
+    width: 100px;
 }
 
 body{
-    background-color: #FBF4E8 ;
+    background-color: #FBF4E8;
 }
 
 .noticia-teste, .noticia-teste1{
     display: flex;
+    gap: 15px;
+}
+
+.Imagem{
+    margin-left: 15px;
+    justify-content: center;
+    margin-right: 15px;
+}
+
+header{
+    position: fixed;
+    width: 100vw;
+}
+
+.noticica1{
+    display: block;
+    margin-right: 5px;
+    margin-left: 5px;
 }
 
 .noticica{
     display: block;
+    margin-right: 5px;
+    margin-left: 5px;
 }
 
 h1{
     color: #5C1362;
-    font-size: 80px;
+    font-size: 60px;
     font-family: 'Rubik';
+    margin-left: 15px;
+    padding-top: 50px;
 }
 
 p{
     color: #352C84;
-    font-size: 30px;
+    font-size: 20px;
     font-family: 'Red Hat Display';
 }
 
 h2{
     color: #352c84;
-    font-size: 50px;
+    font-size: 40px;
     font-family: 'Rubik';
 }
 
 h3{
     color: #352c84;
-    font-size: 40px;
+    font-size: 20px;
     font-family: 'Red Hat Display';
 }
 
@@ -66,10 +133,7 @@ nav {
   font-optical-sizing: auto;
   background: #ffffff;
   height: 8vh;
-}
-
-main {
-  height: 92vh;
+background-color: #FBF4E8 ;
 }
 
 .nav-list {
@@ -183,4 +247,3 @@ main {
   .nav-home
   {width: 0vw;}
 }
-
