@@ -43,6 +43,7 @@
     justify-content: center;
     width: 30px;
     height: 30px;
+    filter: saturate(30%);
 }
 
 footer{
