@@ -9,7 +9,41 @@
   padding: 0;
 }
 
+.menu-2{
+    display: flex;
+    gap: 50px;
+}
 
+.procurar{
+    width: 700px;
+    height: 50px;
+    padding-left: 5px;
+    border: none;
+    border-radius: 25px 0 0 25px;
+    background-color: #CAC0B5;
+    background-opacity: 50%;
+    color: #2A516E;
+    margin-right: 50px;
+}
+
+.circulo-pesquisa{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    right: 0;
+    top: 50%;
+    border: none;
+    border-radius: 100%;
+    background-color: #352C84;
+}
+
+.lupa{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30px;
+    height: 30px;
+}
 
 footer{
     display: flex;
