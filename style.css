@@ -31,16 +31,16 @@
     width: 60px;
     height: 60px;
     right: 0;
-    top: 50%;
+    top: 60px;
     border: none;
     border-radius: 100%;
     background-color: #352C84;
-}
-
-.lupa{
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.lupa{
     width: 30px;
     height: 30px;
     filter: saturate(30%);
