@@ -11,7 +11,7 @@
 
 .menu-2{
     display: flex;
-    gap: 50px;
+    gap: 150px;
 }
 
 .procurar{
@@ -24,14 +24,15 @@
     background-opacity: 50%;
     color: #2A516E;
     margin-right: 50px;
+    margin-top: 60px;
 }
 
 .circulo-pesquisa{
     position: absolute;
     width: 60px;
     height: 60px;
-    right: 0;
-    top: 60px;
+    right: 10px;
+    top: 55px;
     border: none;
     border-radius: 100%;
     background-color: #352C84;
