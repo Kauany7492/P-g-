@@ -14,12 +14,6 @@
     gap: 150px;
 }
 
-.menu-3{
-    display: flex;
-    justify-content: start;
-    position: fixed;
-}
-
 .circulo-adicionar{
     position: absolute;
     width: 60px;
@@ -74,6 +68,7 @@
 footer{
     display: flex;
     justify-content: end;
+    position: fixed;
 }
 
 .logo{
