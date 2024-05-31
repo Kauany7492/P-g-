@@ -69,6 +69,7 @@ footer{
     display: flex;
     justify-content: end;
     position: fixed;
+    padding-top: 50px;
 }
 
 .logo{
