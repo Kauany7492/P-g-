@@ -9,32 +9,9 @@
   padding: 0;
 }
 
-.botao-adicionar{
-    display: flex;
-    top: 1440px;
-    left: 1440px;
-}
-
 .menu-2{
     display: flex;
     gap: 150px;
-}
-
-.circulo-adicionar{
-    position: absolute;
-    width: 60px;
-    height: 60px;
-    border: none;
-    border-radius: 100%;
-    background-color: #352C84;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.adicionar{
-    width: 30px;
-    height: 30px;
 }
 
 .procurar{
