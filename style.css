@@ -57,7 +57,7 @@ footer{
 
 .logo{
     width: 100px;
-    margin: 5px 0;
+    margin: 5px 5px;
 }
 
 body{
@@ -79,18 +79,6 @@ body{
 header{
     position: fixed;
     width: 100vw;
-}
-
-.noticica1{
-    display: block;
-    margin-right: 5px;
-    margin-left: 5px;
-}
-
-.noticica{
-    display: block;
-    margin-right: 5px;
-    margin-left: 5px;
 }
 
 h1{
