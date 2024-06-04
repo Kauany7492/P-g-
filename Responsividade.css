@@ -3,7 +3,7 @@
     width: 55vw;
     height: 3.5vh;
    gap: 50px;
-    right: 30px;
+    right: 50px;
  }
 
 .logo{width: 7vw;}
@@ -22,6 +22,10 @@
  img{
   width: 24.32vw; 
   height: auto;
+ }
+
+ .procurar{
+  right: 50px;
  }
  
 }
