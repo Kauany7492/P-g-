@@ -1,11 +1,16 @@
 @media screen and (max-width: 767px){
+ .menu-2{
+    width: 55vw;
+    height: 3.5vh;
+ }
 
-}
 
-@media screen and (min-width: 767px) and (max-width: 900px){
  
 }
 
 @media screen and (min-width: 1441px){
- 
+  .menu-2{
+    width: 55vw;
+    height: 3.5vh;
+  }
 }
