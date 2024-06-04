@@ -11,6 +11,11 @@
  p, h3{font-size: 1.4vw;}
 
  h2{font-size: 2.8vw;}
+
+ .noticia-teste, .noticia-teste1{
+  display: grid;
+  grid-template-columns: 80%;
+ }
  
 }
 
@@ -27,4 +32,10 @@
  p, h3{font-size: 1.4vw;}
 
  h2{font-size: 2.8vw;}
+
+  .noticia-teste, .noticia-teste1{
+  display: grid;
+  grid-template-columns: 80%;
+ }
+ 
 }
