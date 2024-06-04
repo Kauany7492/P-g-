@@ -16,6 +16,11 @@
   display: grid;
   grid-template-columns: 80%;
  }
+
+ img{
+  width: 24.32vw; 
+  height: auto;
+ }
  
 }
 
@@ -36,6 +41,11 @@
   .noticia-teste, .noticia-teste1{
   display: grid;
   grid-template-columns: 80%;
+ }
+
+ img{
+  width: 24.32vw; 
+  height: auto;
  }
  
 }
