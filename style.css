@@ -36,7 +36,7 @@ main{
     width: 60px;
     height: 60px;
     right: 30px;
-    top: 55px;
+    top: 60px;
     border: none;
     border-radius: 100%;
     background-color: #352C84;
@@ -58,6 +58,7 @@ footer{
 .logo{
     width: 100px;
     margin-bottom: 30px;
+    right: 30px;
 }
 
 body{
@@ -78,6 +79,7 @@ header{
     position: fixed;
     width: 100vw;
     margin-top: 0;
+    top: 0;
 }
 
 h1{
