@@ -15,7 +15,7 @@
 
 .menu-2{
     display: flex;
-    gap: 350px;
+    gap: 250px;
 }
 
 .procurar{
@@ -50,7 +50,7 @@
     height: 20px;
 }
 
- h2, h3, p{
+ h1, h2, h3, p{
    color: #352C84;
    font-family: 'Red Hat Display';
  }
