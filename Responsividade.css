@@ -50,6 +50,9 @@
     height: 20px;
 }
 
- 
+ h2, h3, p{
+   color: #352C84;
+   font-family: 'Red Hat Display';
+ }
  
 }
