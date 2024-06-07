@@ -1,15 +1,27 @@
 @media screen and (max-width: 767px){
 
-.logo{width: 7vw;}
+.logo{width: 2vw;}
+ 
+ h1{
+  font-size: 5vw;
+    color: #352C84;
+   font-family: 'Red Hat Display';
+   }
 
- h1{font-size: 4.2vw;}
+ p, h3{
+  font-size: 1.4vw;
+    color: #352C84;
+   font-family: 'Red Hat Display';
+ }
 
- p, h3{font-size: 1.4vw;}
-
- h2{font-size: 2.8vw;}
+ h2{
+  font-size: 2.8vw;
+    color: #352C84;
+   font-family: 'Red Hat Display';
+   }
 
  img{
-  width: 24.32vw; 
+  width: 20vw; 
   height: auto;
  }
 
@@ -50,9 +62,6 @@
     height: 20px;
 }
 
- h1, h2, h3, p{
-   color: #352C84;
-   font-family: 'Red Hat Display';
- }
+
  
 }
