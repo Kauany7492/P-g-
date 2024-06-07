@@ -27,13 +27,7 @@ header{
     z-index: 2;
 }
 
-    h1{
-        color: #5C1362;
-        font-size: 60px;
-        font-family: 'Rubik';
-        margin-left: 15px;
-        padding-top: 50px;    
-    }
+  
 
 footer{
     display: flex;
@@ -93,7 +87,14 @@ footer{
         gap: 15px;
     }
 
-
+  h1{
+        color: #5C1362;
+        font-size: 60px;
+        font-family: 'Rubik';
+        margin-left: 15px;
+        padding-top: 50px;    
+    }
+    
     p{
         color: #352C84;
         font-size: 20px;
