@@ -1,7 +1,7 @@
 @media screen and (max-width: 767px){
 
 .logo{
- width: 100px;
+ width: 80px;
 }
 
  main{
@@ -46,7 +46,6 @@
     background-color: #CAC0B5;
     background-opacity: 50%;
     color: #2A516E;
-    margin-right: 100px;
 }
 
 .circulo-pesquisa{
@@ -64,10 +63,8 @@
 }
 
 .lupa{
-    width: 20px;
-    height: 20px;
+    width: 30px;
+    height: 30px;
 }
-
-
  
 }
