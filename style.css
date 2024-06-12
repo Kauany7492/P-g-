@@ -1,4 +1,4 @@
-@import url('Responsividade.css')
+
 @import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
 
 :root {
@@ -26,8 +26,6 @@ header{
     top: 0;
     z-index: 2;
 }
-
-  
 
 footer{
     display: flex;
@@ -248,3 +246,5 @@ background-color: #FBF4E8 ;
   .nav-home
   {width: 0vw;}
 }
+
+@import url('Responsividade.css')
