@@ -237,8 +237,3 @@ background-color: #FBF4E8 ;
 .nav-home a{
   color: #2A516E;
 }
-
-@media (max-width: 800px) {
-  .nav-home
-  {width: 0vw;}
-}
