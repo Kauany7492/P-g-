@@ -39,22 +39,22 @@ margin: 5px;
 }
 
 .procurar{
-    width: 500px;
-    height: 30px;
+    width: 200px;
+    height: 20px;
     padding-left: 10px;
     border: none;
     border-radius: 25% 0 0 25%;
     background-color: #CAC0B5;
     background-opacity: 50%;
     color: #2A516E;
-    margin-right: 40px;
+    margin-right: 5vw;
 }
 
 .circulo-pesquisa{
     position: absolute;
     width: 50px;
     height: 50px;
-    right: 35px;
+    right: 15px;
     top: 60px;
     border: none;
     border-radius: 100%;
