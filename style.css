@@ -14,9 +14,9 @@
     border-radius: 20px;
 }
 
-    body{
-        background-color: #FBF4E8;
-    }
+body{
+   background-color: #FBF4E8;
+}
 
 header{
     position: fixed;
@@ -231,7 +231,7 @@ background-color: #FBF4E8 ;
     display: flex;
     font-family: "Rubik", sans-serif;
   font-optical-sizing: auto;
-    justify-content: space-between; /* Isso adiciona espaço igual entre os itens */
+    justify-content: space-between; 
 }
 
 .nav-home a{
