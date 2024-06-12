@@ -1,7 +1,7 @@
 @media screen and (max-width: 767px){
 
 .logo{
- width: 50px;
+ width: 100px;
 margin: 5px;
 }
 
@@ -29,7 +29,7 @@ margin: 5px;
    }
 
  .imagem-noticia{
-  width: 300px; 
+  width: 400px; 
   height: auto;
  }
 
@@ -40,14 +40,14 @@ margin: 5px;
 
 .procurar{
     width: 200px;
-    height: 20px;
+    height: 30px;
     padding-left: 10px;
     border: none;
     border-radius: 50px 0 0 50px;
     background-color: #CAC0B5;
     background-opacity: 50%;
     color: #2A516E;
-    margin-right: 15px;
+    margin-right: 20px;
 }
 
 .circulo-pesquisa{
