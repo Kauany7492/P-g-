@@ -123,7 +123,6 @@ a:hover {
 
 nav {
   display: flex;
-  justify-content: space-between;
   align-items: center;
   font-size: 23px;
   font-family: "Rubik", sans-serif;
@@ -224,7 +223,7 @@ background-color: #FBF4E8 ;
     margin: 0px;
   }
   .nav-home li {
-    margin: 50px;
+    margin: 40px;
     list-style: none;
   }
   .nav-home ul {
