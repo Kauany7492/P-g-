@@ -1,9 +1,12 @@
 @media screen and (max-width: 767px){
 
-.logo{width: 50px;}
+.logo{
+ width: 50px;
+margin: 5px;
+}
 
  main{
-  margin: 0 5px 5px 5px;
+  margin: 0 10px 10px 10px;
  }
  
  h1{
@@ -37,14 +40,14 @@
 
 .procurar{
     width: 500px;
-    height: 50px;
+    height: 30px;
     padding-left: 10px;
     border: none;
-    border-radius: 10px 0 0 10px;
+    border-radius: 25% 0 0 25%;
     background-color: #CAC0B5;
     background-opacity: 50%;
     color: #2A516E;
-    margin-right: 35px;
+    margin-right: 40px;
 }
 
 .circulo-pesquisa{
