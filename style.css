@@ -37,7 +37,7 @@ footer{
     }
 
     nav{
-        
+       justify-content: space-between;
     }
 
     .menu-2{
