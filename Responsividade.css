@@ -42,7 +42,6 @@ footer{
 
  .pesquisa{
   display: flex;
-  flex-wrap: wrap;
   align-items: center;
   margin: 0 0 0 200px;
  }
