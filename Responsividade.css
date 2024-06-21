@@ -1,23 +1,7 @@
-@media screen and (max-width: 767px){
+@media screen and (min-width: 501px) and (max-width: 767px){
 
 footer{
  width: 640px;
-}
-
-nav-home{
- font-size: 30px;
-}
-
- nav{
-  padding: 15px;
- }
-
-header{
- width: 100wh;
-}
-
-h1, h2, h3, p{
- align-itens: center;
 }
  
  .logo{
@@ -47,7 +31,7 @@ h1, h2, h3, p{
    }
 
  .imagem-noticia{
-  width: 500px; 
+  width: 650px; 
   height: auto;
  }
 
@@ -90,4 +74,98 @@ h1, h2, h3, p{
     height: 30px;
 }
  
+}
+
+@media screen and (min-width: 300px) and (max-width: 500px) {
+ 
+ nav-home{
+ font-size: 30px;
+}
+
+ nav{
+  padding: 15px;
+ }
+
+header{
+ width: 100wh;
+}
+
+h1, h2, h3, p{
+ align-itens: center;
+}
+
+ footer{
+ width: 500px;
+}
+ 
+ .logo{
+ width: 80px;
+}
+
+ main{
+  margin: 0 0 10px 10px;
+ }
+ 
+ h1{
+  font-size: 50px;
+  color: #352c84;
+   font-family: 'Red Hat Display';
+   }
+
+ p, h3{
+  font-size: 20px;
+    color: #352c84;
+   font-family: 'Red Hat Display';
+ }
+
+ h2{
+  font-size: 30px;
+  color: #353c84;
+   font-family: 'Red Hat Display';
+   }
+
+ .imagem-noticia{
+  width: 450px; 
+  height: auto;
+ }
+
+.menu-2{
+    margin-top: 80px;
+    display: flex;
+}
+
+ .pesquisa{
+  display: flex;
+  align-items: center;
+  margin: 0 0 0 200px;
+ }
+
+.procurar{
+    width: 100px;
+    height: 30px;
+    padding-left: 10px;
+    border: none;
+    border-radius: 50px 0 0 50px;
+    background-color: #CAC0B5;
+    color: #2A516E;
+}
+
+.circulo-pesquisa{
+    position: relative;
+    width: 50px;
+    height: 50px;
+    right: 5px;
+    border: none;
+    border-radius: 100%;
+    background-color: #352C84;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.lupa{
+    width: 30px;
+    height: 30px;
+}
+
 }
