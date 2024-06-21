@@ -4,6 +4,14 @@ footer{
  width: 640px;
 }
 
+nav-home{
+ font-size: 30px;
+}
+
+ nav{
+  padding: 15px;
+ }
+
 header{
  width: 100wh;
 }
