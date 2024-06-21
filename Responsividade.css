@@ -4,6 +4,10 @@ footer{
  width: 640px;
 }
 
+header{
+ width: 100wh;
+}
+
 h1, h2, h3, p{
  align-itens: center;
 }
