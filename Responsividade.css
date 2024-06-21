@@ -91,7 +91,7 @@ header{
 }
 
 h1, h2, h3, p{
- align-itens: center;
+ justify-content: center;
 }
 
  footer{
