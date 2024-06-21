@@ -3,6 +3,10 @@
 footer{
  width: 640px;
 }
+
+h1, h2, h3, p{
+ align-itens: center;
+}
  
  .logo{
  width: 80px;
