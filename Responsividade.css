@@ -137,7 +137,7 @@ h1, h2, h3, p{
  .pesquisa{
   display: flex;
   align-items: center;
-  margin: 0 0 0 200px;
+  margin: 0 0 0 50px;
  }
 
 .procurar{
