@@ -78,7 +78,7 @@ footer{
 
 @media screen and (min-width: 300px) and (max-width: 500px) {
  
- nav-home{
+ .nav-home{
  font-size: 30px;
 }
 
@@ -87,11 +87,8 @@ footer{
  }
 
 header{
- width: 100wh;
-}
-
-h1, h2, h3, p{
- justify-content: center;
+ width: 500px;
+ height: 40px;
 }
 
  footer{
