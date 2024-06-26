@@ -40,6 +40,10 @@ footer{
        justify-content: space-between;
     }
 
+  .nav-home li {
+    margin: 40px;
+  }
+
     .menu-2{
         display: flex;
         gap: 350px;
@@ -227,7 +231,6 @@ background-color: #FBF4E8 ;
     margin: 0px;
   }
   .nav-home li {
-    margin: 40px;
     list-style: none;
   }
   .nav-home ul {
