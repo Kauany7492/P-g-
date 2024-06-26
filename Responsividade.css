@@ -96,6 +96,7 @@ header{
 
   .nav-home li {
     margin: 10px;
+   margin-left: 20px;
     list-style: none;
   }
 
