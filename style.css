@@ -46,7 +46,7 @@ footer{
 
     .menu-2{
         display: flex;
-        gap: 350px;
+        justify-content: space-between;
     }
 
     .procurar{
@@ -56,7 +56,6 @@ footer{
         border: none;
         border-radius: 25px 0 0 25px;
         background-color: #CAC0B5;
-        background-opacity: 50%;
         color: #2A516E;
         margin-right: 50px;
         margin-top: 60px;
