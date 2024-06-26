@@ -181,18 +181,27 @@ header{
     margin: 5px 30px;
     }
 
+ .mobile-menu{
+  padding-left: 50px;
+ }
+
     nav{
        justify-content: space-between;
     }
 
   .nav-home li {
     margin: 50px;
+   margin-right: 150px;
   }
 
     .menu-2{
         display: flex;
-        gap: 450px;
+        justify-content: space-between;
     }
+
+ .pesquisa{
+  display: flex;
+ }
 
     .procurar{
         width: 500px;
@@ -201,18 +210,17 @@ header{
         border: none;
         border-radius: 25px 0 0 25px;
         background-color: #CAC0B5;
-        background-opacity: 50%;
         color: #2A516E;
         margin-right: 60px;
-        margin-top: 70px;
+        margin-top: 75px;
     }
 
     .circulo-pesquisa{
-        position: absolute;
+        position: relative;
         width: 70px;
         height: 70px;
-        right: 45px;
-        top: 70px;
+        right: 80px;
+        top: 65px;
         border: none;
         border-radius: 100%;
         background-color: #352C84;
@@ -227,9 +235,9 @@ header{
     }
     
     .logo{
-        width: 200px;
+        width: 150px;
         margin-bottom: 30px;
-        right: 30px;
+        margin-right: 50px;
     }
 
     .noticia-teste, .noticia-teste1{
@@ -258,3 +266,4 @@ header{
     }
 
 }
+
