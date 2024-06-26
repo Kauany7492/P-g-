@@ -176,5 +176,84 @@ header{
 }
 
 @media screen and (min-width: 1440px) {
- 
+   main{
+    margin: 5px 30px;
+    }
+
+    nav{
+       justify-content: space-between;
+    }
+
+  .nav-home li {
+    margin: 50px;
+  }
+
+    .menu-2{
+        display: flex;
+        gap: 450px;
+    }
+
+    .procurar{
+        width: 500px;
+        height: 50px;
+        padding-left: 15px;
+        border: none;
+        border-radius: 25px 0 0 25px;
+        background-color: #CAC0B5;
+        background-opacity: 50%;
+        color: #2A516E;
+        margin-right: 60px;
+        margin-top: 70px;
+    }
+
+    .circulo-pesquisa{
+        position: absolute;
+        width: 70px;
+        height: 70px;
+        right: 45px;
+        top: 70px;
+        border: none;
+        border-radius: 100%;
+        background-color: #352C84;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .lupa{
+        width: 40px;
+        height: 40px;
+    }
+    
+    .logo{
+        width: 200px;
+        margin-bottom: 30px;
+        right: 30px;
+    }
+
+    .noticia-teste, .noticia-teste1{
+        display: flex;
+        gap: 25px;
+    }
+
+  h1{
+        color: #5C1362;
+        font-size: 70px;
+        font-family: 'Rubik';
+        margin-left: 25px;
+        padding-top: 60px;    
+    }
+    
+    h3, p{
+        color: #352C84;
+        font-size: 30px;
+        font-family: 'Red Hat Display';
+    }
+
+    h2{
+        color: #352c84;
+        font-size: 50px;
+        font-family: 'Rubik';
+    }
+
 }
