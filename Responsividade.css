@@ -82,15 +82,6 @@ footer{
 }
 
 @media screen and (min-width: 300px) and (max-width: 500px) {
- 
- .nav-home{
- font-size: 20px;
-  margin-right: 5px;
-}
-
- nav{
-  padding: 5px;
- }
 
 header{
  width: 500px;
