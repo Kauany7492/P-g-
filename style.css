@@ -93,8 +93,8 @@ footer{
 
   h1{
         color: #5C1362;
-        font-size: 60px;
-        font-family: 'Rubik';
+        font-size: 11vw;
+        font-family: 'Rubik', sans-serif;
         margin-left: 15px;
         padding-top: 50px;    
     }
