@@ -203,6 +203,7 @@ header{
 
  .pesquisa{
   display: flex;
+  margin-top: 20px;
  }
 
     .procurar{
@@ -219,6 +220,7 @@ header{
 
     .circulo-pesquisa{
         position: relative;
+     margin-top: 65px;
         width: 70px;
         height: 70px;
         right: 80px;
