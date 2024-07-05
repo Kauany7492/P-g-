@@ -4,12 +4,6 @@ footer{
  width: 640px;
 }
 
-  .nav-home li {
-    margin: 20px;
-    margin-left: 70px;
-    list-style: none;
-  }
-
  header{
   height: 40px;
   width: 767px;
@@ -95,12 +89,6 @@ header{
  height: 30px;
 }
 
-  .nav-home li {
-    margin: 10px;
-   margin-left: 20px;
-    list-style: none;
-  }
-
  footer{
  width: 500px;
 }
@@ -182,19 +170,6 @@ header{
    main{
     margin: 5px 30px;
     }
-
- .mobile-menu{
-  padding-left: 50px;
- }
-
-    nav{
-       justify-content: space-between;
-    }
-
-  .nav-home li {
-    margin: 50px;
-   margin-right: 150px;
-  }
 
     .menu-2{
         display: flex;
