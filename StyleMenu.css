@@ -5,6 +5,10 @@
   padding: 0;
 }
 
+header{
+   background-color: #FBF4E8;
+}
+
 a {
   color: #ffffff;
   text-decoration: none;
