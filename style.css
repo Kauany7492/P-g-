@@ -35,15 +35,7 @@ footer{
     main{
     margin: 5px 30px;
     }
-
-    nav{
-       justify-content: space-between;
-    }
-
-  .nav-home li {
-    margin: 40px;
-  }
-
+    
     .menu-2{
         display: flex;
         justify-content: space-between;
