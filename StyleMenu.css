@@ -43,7 +43,6 @@ nav {
 .nav-list {
   list-style: none;
   display: flex;
-  border: solid 1px #ffffff; 
 }
 
 .nav-list li {
@@ -188,11 +187,9 @@ nav {
       flex-direction: column;
       background-color: #4A7BA7;
       color:#ffffff;
-      border: solid 1px #2A516E; 
   }
   
   .EmphasisMiddle > li {
-      border: solid 1px #4A7BA7; 
       background-color: #2A516E;
       padding: 10% 35% 10% 35%; 
       align-items: center;
@@ -229,11 +226,9 @@ nav {
       flex-direction: column;
       background-color: #4A7BA7;
       color:#ffffff;
-      border: solid 1px #2A516E; 
   }
   
   .EmphasisMiddle > li {
-      border: solid 1px #4A7BA7; 
       background-color: #2A516E;
       padding: 7.5% 35% 7.5% 35%; 
       align-items: center;
