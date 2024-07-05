@@ -19,6 +19,7 @@ body{
 }
 
 header{
+    background-color: #FBF4E8;
     position: fixed;
     width: 100vw;
     margin-top: 0;
