@@ -4,7 +4,7 @@
 }
 
 a {
-  color: #ffffff;
+  color: #FBF4E8;
   text-decoration: none;
   transition: 0.3s;
 }
@@ -18,7 +18,7 @@ a:hover {
     align-items: center;
     flex-direction: column;
     background-color: #4A7BA7;
-    color:#ffffff;
+    color:#FBF4E8;
 }
 
 .EmphasisMiddle > li {
