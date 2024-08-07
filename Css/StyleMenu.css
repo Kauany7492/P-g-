@@ -4,7 +4,7 @@
 }
 
 a {
-  color: #FBF4E8;
+  color: #ffffff;
   text-decoration: none;
   transition: 0.3s;
 }
@@ -18,7 +18,7 @@ a:hover {
     align-items: center;
     flex-direction: column;
     background-color: #4A7BA7;
-    color:#FBF4E8;
+    color:#ffffff;
 }
 
 .EmphasisMiddle > li {
@@ -34,7 +34,7 @@ nav {
   align-items: center;
   font-family: "Rubik", sans-serif;
   font-optical-sizing: auto;
-  background: #ffffff;
+  background: #FBF4E8;
   height: 8vh;
 }
 
